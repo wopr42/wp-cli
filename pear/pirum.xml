@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>andreascreten.github.com/wp-cli</name>
+    <summary>wp-cli</summary>
+    <alias>wp-cli</alias>
+    <url>http://andreascreten.github.com/wp-cli</url>
+</server>

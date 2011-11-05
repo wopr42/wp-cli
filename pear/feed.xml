@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://andreascreten.github.com/wp-cli</id>
+    <updated>2011-11-05T22:24:12+02:00</updated>
+    <title>wp-cli Latest Releases</title>
+    <link href="http://andreascreten.github.com/wp-cli/feed.xml" rel="self" />
+    <author>
+        <name>http://andreascreten.github.com/wp-cli</name>
+    </author>
+
+
+</feed>
