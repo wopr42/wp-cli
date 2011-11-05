@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-    <name>andreascreten.github.com/wp-cli</name>
-    <summary>wp-cli</summary>
+	<name>andreascreten.github.com/wp-cli/pear</name>
+    <summary>wp-cli pear channel</summary>
     <alias>wp-cli</alias>
-    <url>http://andreascreten.github.com/wp-cli</url>
+	<url>http://andreascreten.github.com/wp-cli/pear</url>
 </server>
