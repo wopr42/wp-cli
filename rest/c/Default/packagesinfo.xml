@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
+    <pi>
+        <p>
+            <n>wpcli</n>
+            <c>andreascreten.github.com/wp-cli</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>GPL 2+</l>
+            <s>WordPress CLI interface</s>
+            <d>
+    A tool for controlling WordPress through the command line.
+  </d>
+            <r xlink:href="/rest/r/wpcli" />
+        </p>
 
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
+        </deps>
+
+    </pi>
 </f>
