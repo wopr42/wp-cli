@@ -7,16 +7,16 @@
     <mp>5.3.0</mp>
     <st>stable</st>
     <l>GPL 2+</l>
-    <m>scribu</m>
+    <m>andreascreten</m>
     <s>WordPress CLI interface</s>
     <d>
     A tool for controlling WordPress through the command line.
   </d>
-    <da>2011-11-06 01:57:37</da>
+    <da>2011-11-06 02:13:37</da>
     <n>
     No notes.
   </n>
-    <f>80680</f>
+    <f>79129</f>
     <g>http://andreascreten.github.com/wp-cli/get/wpcli-1.0.0</g>
     <x xlink:href="package.1.0.0.xml"/>
 </r>

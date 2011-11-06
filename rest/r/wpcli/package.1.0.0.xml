@@ -10,13 +10,19 @@
     A tool for controlling WordPress through the command line.
   </description>
   <lead>
+    <name>Andreas Creten</name>
+    <user>andreascreten</user>
+    <email></email>
+    <active>yes</active>
+  </lead>
+  <lead>
     <name>scribu</name>
     <user>scribu</user>
     <email>mail@scribu.net</email>
     <active>yes</active>
   </lead>
   <date>2011-11-06</date>
-  <time>01:57:37</time>
+  <time>02:13:37</time>
   <version>
     <release>1.0.0</release>
     <api>1.0</api>
@@ -193,7 +199,7 @@
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
-      <file baseinstalldir="/" md5sum="660cd008be3c77bef0d5efa39bef9d8b" name="/wp-cli.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+      <file baseinstalldir="/" md5sum="730224709a73865ad3f02b179a47328b" name="/wp-cli.php" role="php">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
         <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
         <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
       </file>
