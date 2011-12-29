@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://andreascreten.github.com/wp-cli</id>
-    <updated>2011-11-06T14:17:44+02:00</updated>
+    <updated>2011-12-29T16:53:46+02:00</updated>
     <title>wp-cli pear channel Latest Releases</title>
     <link href="http://andreascreten.github.com/wp-cli/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>wpcli 0.4.0 (stable)</title>
+        <link href="http://andreascreten.github.com/wp-cli/get/wpcli-0.4.0.tgz" />
+        <id>http://andreascreten.github.com/wp-cli/get/wpcli-0.4.0.tgz</id>
+        <author>
+            <name>andreascreten</name>
+        </author>
+        <updated>2011-12-29T16:52:27+02:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>wpcli 0.3.0 (stable)</title>
         <link href="http://andreascreten.github.com/wp-cli/get/wpcli-0.3.0.tgz" />
         <id>http://andreascreten.github.com/wp-cli/get/wpcli-0.3.0.tgz</id>

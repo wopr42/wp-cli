@@ -2,7 +2,7 @@
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/wpcli">wpcli</p>
     <c>andreascreten.github.com/wp-cli</c>
-    <v>0.3.0</v>
+    <v>0.4.0</v>
     <st>stable</st>
     <l>GPL 2+</l>
     <m>andreascreten</m>
@@ -10,11 +10,11 @@
     <d>
     A tool for controlling WordPress through the command line.
   </d>
-    <da>2011-11-06 14:17:44</da>
+    <da>2011-12-29 16:52:27</da>
     <n>
     No notes.
   </n>
-    <f>84406</f>
-    <g>http://andreascreten.github.com/wp-cli/get/wpcli-0.3.0</g>
-    <x xlink:href="package.0.3.0.xml"/>
+    <f>83220</f>
+    <g>http://andreascreten.github.com/wp-cli/get/wpcli-0.4.0</g>
+    <x xlink:href="package.0.4.0.xml"/>
 </r>
